@@ -13,7 +13,7 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 ## Scavenger Hunt
 
-- [x] Video of a scare https://www.youtube.com/watch?v=769hylruNTM
+- [x] Video of a scare https://gist.github.com/DavisVaughan/acdfeaf3ef3c3276df3125ed7ae4c687?permalink_comment_id=4353652#gistcomment-4353652
 - [x] Funny gravestone https://gist.github.com/DavisVaughan/a84401743f3158275800285bea455a43?permalink_comment_id=4353625#gistcomment-4353625
 - [x] Baby's first Halloween https://gist.github.com/DavisVaughan/4d9b596696b77458dc3f84f6f1255e0a?permalink_comment_id=4353632#gistcomment-4353632
 - [x] Dressed up pet https://gist.github.com/DavisVaughan/61beb30996ac6e3691f95a9983e0e904?permalink_comment_id=4353634#gistcomment-4353634
