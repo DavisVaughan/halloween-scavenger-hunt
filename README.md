@@ -13,13 +13,16 @@ This is designed to be used as a group in something like a virtual team meeting 
 
 ## Scavenger Hunt
 
-- [ ] Video of a scare 
-- [ ] Funny gravestone
-- [ ] Baby's first Halloween
-- [ ] Dressed up pet
-- [ ] A CRAN package in Halloween form
-- [ ] Computer or data related costume
-- [ ] Computer or data related Halloween joke 
-- [ ] Geeky carved pumpkin
-- [ ] Your new idea
+- [x] Video of a scare https://www.youtube.com/watch?v=769hylruNTM
+- [x] Funny gravestone https://gist.github.com/DavisVaughan/a84401743f3158275800285bea455a43?permalink_comment_id=4353625#gistcomment-4353625
+- [x] Baby's first Halloween https://gist.github.com/DavisVaughan/4d9b596696b77458dc3f84f6f1255e0a?permalink_comment_id=4353632#gistcomment-4353632
+- [x] Dressed up pet https://gist.github.com/DavisVaughan/61beb30996ac6e3691f95a9983e0e904?permalink_comment_id=4353634#gistcomment-4353634
+- [x] A CRAN package in Halloween form https://rpubs.com/giancarlo_vercellino/spooky
+- [x] Computer or data related costume https://image.cnbcfm.com/api/v1/image/106119989-1568055693817gettyimages-51602602.jpeg?v=1568055849
+- [x] Computer or data related Halloween joke https://twitter.com/JUST_Equations/status/1587104608878567425?s=20&t=7Lt1jzsY27X_jQOpxep5JQ
+- [x] Geeky carved pumpkin https://pbs.twimg.com/media/Ekp-VrnW0AwlWuT?format=jpg&name=4096x4096
+- [x] Spooky R package name
+  - carveR
+  - JaSON (JavaScript )
+  - SaTAN
 - [ ] Your other new idea
