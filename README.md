@@ -18,6 +18,7 @@ This is designed to be used as a group in something like a virtual team meeting 
 - [x] Baby's first Halloween https://gist.github.com/DavisVaughan/4d9b596696b77458dc3f84f6f1255e0a?permalink_comment_id=4353632#gistcomment-4353632
 - [x] Dressed up pet https://gist.github.com/DavisVaughan/61beb30996ac6e3691f95a9983e0e904?permalink_comment_id=4353634#gistcomment-4353634
 - [x] A CRAN package in Halloween form https://rpubs.com/giancarlo_vercellino/spooky
+  - https://cran.r-project.org/web/packages/Rcpp/index.html
 - [x] Computer or data related costume https://image.cnbcfm.com/api/v1/image/106119989-1568055693817gettyimages-51602602.jpeg?v=1568055849
 - [x] Computer or data related Halloween joke https://twitter.com/JUST_Equations/status/1587104608878567425?s=20&t=7Lt1jzsY27X_jQOpxep5JQ
 - [x] Geeky carved pumpkin https://pbs.twimg.com/media/Ekp-VrnW0AwlWuT?format=jpg&name=4096x4096
